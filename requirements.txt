@@ -1,2 +1,5 @@
 streamlit==1.34.0
 PyPDF2==3.00.1
+PyMuPDF==1.24.3
+pillow==10.02.0
+reportlab==4.02.0
