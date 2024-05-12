@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 import streamlit as st
 import PyPDF2
 from io import BytesIO
